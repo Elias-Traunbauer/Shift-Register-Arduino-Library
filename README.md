@@ -1,3 +1,3 @@
 # Shift-Register-Arduino-Library
 
-Simple ShiftRegister library
+Aims to provide a easy to use interface, to control shift registers
